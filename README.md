@@ -1,2 +1,6 @@
 # hello-world
-my first repo
+## my first repo
+Hi this is my first repo and here I will upload 
+> stuff
+> and
+> code 
